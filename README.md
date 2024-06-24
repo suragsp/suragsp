@@ -77,7 +77,7 @@ Beyond my professional pursuits, I enjoy staying active through outdoor activiti
 
 - [GitHub](https://github.com/suragsp)
 - [LinkedIn](https://www.linkedin.com/in/suragsp)
-- [Instagram](https://www.instagram.com/surag_patel/)
+  
 
 ---
 
