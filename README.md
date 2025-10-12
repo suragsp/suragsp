@@ -3,9 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Surag_Patel-blue?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/suragsp)
 [![GitHub](https://img.shields.io/badge/GitHub-suragsp-black?style=flat-square&logo=GitHub)](https://github.com/suragsp)
 
-![Cover Photo](https://media.licdn.com/dms/image/D5616AQEvVFEuX9I2RQ/profile-displaybackgroundimage-shrink_350_1400/0/1715977824408?e=1724889600&v=beta&t=3QXpAs_wkOBPGseit5qiLVdAEK5Q5Kgk50gV1Zm1hIs)
+https://media.licdn.com/dms/image/v2/D5616AQGu-qVuwb8O1g/profile-displaybackgroundimage-shrink_350_1400/B56ZnE.aXxIsAc-/0/1759946319885?e=1762992000&v=beta&t=U-qXmSZpXeTs2seLUl3gCFr6SrxsXZ6hbOVjFKLfF-0
 
-## About Me
 
 I am Surag Patel, a passionate DevOps professional currently advancing my education with a post-graduate degree in DevOps and Cloud Computing from Lambton College in Toronto. My journey in the technology and education sectors has been driven by a relentless pursuit of knowledge and a desire to make a meaningful impact. With a strong academic foundation and diverse professional experiences, I have honed my skills in DevOps, cloud computing, programming, and education, and I am excited to leverage these skills to contribute to organizational success and innovation.
 
