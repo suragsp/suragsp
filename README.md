@@ -154,5 +154,3 @@ Here are some of my most recent **LinkedIn Learning & Microsoft Certifications**
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/suragsp/) or explore my projects on [GitHub](https://github.com/suragsp).
 
 ---
-
-Would you like me to **generate this as a styled GitHub profile README file (.md)** with icons, badges (Python, AWS, DevOps, Instructor), and an aesthetic layout ready to upload to your GitHub profile page?
