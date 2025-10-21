@@ -1,156 +1,100 @@
-## 🧑‍🏫 **Surag Patel**
+<h1 align="center">👋 Hi, I'm Surag Patel</h1>
 
-📍 *Scarborough, ON, Canada*
-📧 [suragsp@gmail.com](mailto:suragsp@gmail.com) | 📞 437-667-0425
-🔗 [LinkedIn](https://www.linkedin.com/in/suragsp/) | [GitHub](https://github.com/suragsp)
-
-![Cover](https://media.licdn.com/dms/image/v2/D5616AQGu-qVuwb8O1g/profile-displaybackgroundimage-shrink_350_1400/B56ZnE.aXxIsAc-/0/1759946319885?e=1762992000\&v=beta\&t=U-qXmSZpXeTs2seLUl3gCFr6SrxsXZ6hbOVjFKLfF-0) <img src="https://media.licdn.com/dms/image/v2/D5603AQGLNrWzt-bd2w/profile-displayphoto-crop_800_800/B56ZnZft_5JwAI-/0/1760290598759?e=1762992000&v=beta&t=hRb6ZQCn5QcSaiLk4wVsKbVs6rlYx4kTGi4jOgHwl-8" alt="Surag Patel" width="180" align="right" style="border-radius:50%;margin-top:-90px"/>
-
----
-
-### 🎯 **About Me**
-
-Passionate and results-driven **Instructor, Software Developer, and DevOps Professional** with over **10 years of experience** in technology, education, and software solutions.
-I specialize in **Python, Java, React, SQL, and Cloud Computing**, with a proven track record of creating impactful learning experiences that bridge the gap between academia and industry.
-
-Currently teaching and mentoring students in **Computer Programming, DevOps, Cloud, and Interactive Media Design**, helping them build career-ready skills through hands-on training, hackathons, and project-based learning.
-
-💡 I believe in transforming education through **technology, innovation, and mentorship**.
+<p align="center">
+  💻 Instructor | Software Developer | Cloud Enthusiast | Tech Mentor <br>
+  🌎 Based in Canada | 📧 suragsp@gmail.com
+</p>
 
 ---
 
-### 🧩 **Technical Expertise**
-
-* **Languages:** Python, Java, JavaScript (ES6+), HTML, CSS, SQL, Bash
-* **Frameworks & Tools:** React, Node.js, Flask, Docker, Kubernetes, GitHub, GitLab
-* **Cloud & DevOps:** AWS, Azure, Terraform, CI/CD, Ansible, Jenkins
-* **Databases:** MySQL, PostgreSQL, MongoDB
-* **Methodologies:** Agile, Scrum, SDLC
-* **Soft Skills:** Leadership, Communication, Mentorship, Curriculum Design
+### 🧠 About Me  
+- 👨‍🏫 Instructor at **CDI College**, teaching Programming & Interactive Media Design  
+- 🧩 Experienced in **Python, Java, JavaScript, React, AWS, DevOps, and Databases**  
+- 🪴 Passionate about mentoring students and helping them build real-world software projects  
+- 🚀 Focused on **containerization, CI/CD, cloud deployment**, and **modern web development**  
+- 🎯 Career Goal: Secure a stable developer position and make a strong impact in Canada’s tech ecosystem  
 
 ---
 
-### 💼 **Experience**
+### ⚙️ Tech Stack
 
-#### 🎓 CDI College – *Interactive Media Design & Computer Programming Instructor*
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
-📍 *Toronto, ON* | *January 2024 – Present*
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-* Delivering **comprehensive courses** in Python, Java, React, and SQL to 100+ students each semester.
-* Designing **industry-aligned training modules**, improving job readiness by **75%**.
-* Mentoring students on **Agile workflows** and **Git/GitHub**, achieving **80% adoption**.
-* Collaborating with program heads to integrate **cloud deployment and DevOps** practices.
-* Hosting **technical hackathons and workshops**, boosting engagement and teamwork.
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 
----
-
-#### 💡 RG Educenters – *Programming Instructor*
-
-📍 *Scarborough, ON* | *August 2023 – Present*
-
-* Providing **1-on-1 and group training** in programming fundamentals and problem-solving.
-* Developing **university prep courses** for aspiring Computer Science students.
-* Leading **Hackathon readiness programs**, enhancing creativity and innovation.
-
----
-
-#### 🤖 Student Scholars – *STEM & Robotics Instructor*
-
-📍 *Markham, ON* | *July 2023 – Present*
-
-* Designing and delivering **integrated Robotics, 3D Printing, and Programming curricula** for K–12 students.
-* Leading **hands-on labs and coding camps**, increasing **STEM participation by 60%**.
-* Guiding students in project-based learning focused on **automation and design thinking**.
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
 
 ---
 
-#### 🧑‍💻 Freelancer – *Software Developer & Technical Consultant*
+### 🧩 GitHub Stats & Activity
 
-📍 *Remote* | *November 2016 – Present*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suragsp&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suragsp&theme=radical" height="165">
+</p>
 
-* Building and deploying **websites, mobile apps, and mini-games** for startups and educational clients.
-* Providing **IT consultation and process automation** strategies for small businesses.
-* Mentoring students and clients to adapt to **modern tools, frameworks, and cloud solutions**.
-
----
-
-#### 🏫 Witty International School – *Computer Science & ICT Instructor*
-
-📍 *Mumbai, India* | *June 2019 – April 2023*
-
-* Taught **300+ students** across Grades 8–12 in programming and computational logic.
-* Improved **academic performance by 35%** through structured mentoring programs.
-* Organized **coding competitions** that increased student engagement by **60%**.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=suragsp&theme=radical&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-#### 🏫 D.G. Khetan School – *ICT Instructor*
+### 🧠 Experience
 
-📍 *Mumbai, India* | *June 2016 – May 2019*
+#### 🏫 **Instructor – CDI College**
+📍 Canada | 🕒 2024 – Present  
+- Teaching **Programming, Software Development, and Deployment**
+- Topics include **Python, Java, JavaScript, PHP, HTML, CSS, SQL, MongoDB, Git, and Web Design**
+- Mentoring students on **real-world projects** using tools like GitHub, Docker, and AWS  
+- Helping learners understand **DevOps, containerization, and CI/CD pipelines**
 
-* Created **12+ structured lesson plans per grade**, ensuring 100% curriculum coverage.
-* Trained **teachers** on smart classroom and IT integration.
-* Organized **tech fairs** that reached **500+ students**, improving digital literacy.
+#### 🚀 **Chapter Lead – Canada Learning Code**
+📍 Canada | 🕒 2023 – 2024  
+- Organized coding workshops and tech meetups  
+- Guided participants through **Python, HTML/CSS, and Web App projects**  
+- Promoted coding education and digital literacy in the community  
 
----
-
-### 🎓 **Education**
-
-**Post-Graduate Diploma – DevOps in Cloud Computing**
-📍 *Lambton College, Toronto, ON* | *2023 – 2024*
-
-* Focused on **Cloud Technologies, Automation, and Secure Deployments**
-* 🏅 *Dean’s List (2024)*
-
-**M.Sc. – Information Technology**
-📍 *Mumbai University, India* | *2017 – 2019*
-
-**B.Sc. – Information Technology**
-📍 *Mumbai University, India* | *2014 – 2017*
+#### 💼 **Software Developer (Freelance Projects)**
+📍 Remote | 🕒 2015 – Present  
+- Developed websites, web apps, and REST APIs for various clients  
+- Implemented **WordPress, React, Flask**, and **Node.js** based projects  
+- Worked on integrating **AWS**, **Docker**, and **CI/CD pipelines**  
 
 ---
 
-### 🧠 **Licenses & Certifications**
-
-Here are some of my most recent **LinkedIn Learning & Microsoft Certifications** 🏅
-
-| Certification                                            | Issuer               | Skills                                     |
-| -------------------------------------------------------- | -------------------- | ------------------------------------------ |
-| Advance Your Python Skills for Data Science              | LinkedIn             | Python · Data Science · Big Data Analytics |
-| Become a Data Scientist                                  | LinkedIn             | Data Science                               |
-| Become a Software Developer                              | LinkedIn             | Software Development                       |
-| Build Essential Skills to Manage Remote and Hybrid Teams | LinkedIn             | Team Management · Virtual Teams            |
-| Develop Your SEO Skills                                  | LinkedIn             | SEO                                        |
-| JavaScript Essential Training                            | LinkedIn             | JavaScript                                 |
-| Learning ECMAScript 6+                                   | LinkedIn             | ECMAScript                                 |
-| Master Professional Soft Skills                          | LinkedIn             | Communication · Teamwork                   |
-| Master Key Financial Analyst Skills                      | LinkedIn             | Financial Analysis                         |
-| Python Essential Training                                | LinkedIn             | Python Programming                         |
-| Career Essentials in Data Analysis                       | Microsoft & LinkedIn | Data Analytics · Data Visualization        |
-| Career Essentials in GitHub Professional Certificate     | GitHub               | GitHub · Project Collaboration             |
-| Getting Started with AI and Machine Learning             | LinkedIn             | Machine Learning · Neural Networks         |
-| Learning AWS QuickSight                                  | LinkedIn             | AWS · Data Visualization                   |
-| Career Essentials in Generative AI                       | Microsoft & LinkedIn | Artificial Intelligence                    |
-| Ethics in the Age of Generative AI                       | LinkedIn             | AI Ethics                                  |
-| Practical GitHub Copilot                                 | LinkedIn             | GitHub Copilot                             |
-| Facilitation Skills for Managers and Leaders             | LinkedIn             | Team Facilitation                          |
-| Programming Foundations: Databases                       | LinkedIn             | Database Development                       |
-| Leadership Tips, Tactics, and Advice                     | LinkedIn             | Leadership                                 |
+### 🎓 Certifications & Learning  
+- 🧾 AWS Certified Solutions Architect – Associate *(in progress)*  
+- 🔒 CompTIA Security+ *(in progress)*  
+- 🎓 Postgraduate in Computer Programming and Interactive Media Design  
 
 ---
 
-### 🏆 **Honors & Recognition**
+### 🌐 Connect With Me  
 
-* 🥇 **Dean’s List**, Lambton College (2024)
-* 🏅 **Outstanding Student Advisor**, Witty International School (2022)
-* 💬 **Chapter Lead**, *Canada Learning Code* – Hosted 10+ coding workshops & community tech events
-* 🤝 **Student Ambassador**, *Lambton College* – Organized 10+ student success initiatives
-
----
-
-### 🌐 **Let’s Connect**
-
-💻 I’m always open to collaboration, mentorship, and new opportunities in **education, cloud computing, or software development.**
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/suragsp/) or explore my projects on [GitHub](https://github.com/suragsp).
-
----
+<p align="center">
+  <a href="mailto:suragsp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/suragpatel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/suragsp"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge"/></a>
+</p>
