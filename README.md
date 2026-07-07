@@ -1,160 +1,260 @@
-# 👋 Hi, I'm Surag Patel
+<h1 align="center">Hi 👋, I'm Surag Patel</h1>
 
-💻 Instructor | Software Developer | Cloud & DevOps Enthusiast  
-🌎 Scarborough, ON, Canada | 📧 suragsp@gmail.com  
-
----
-
-### 🧠 About Me
-- 👨‍🏫 Instructor at **CDI College**, teaching Programming & Interactive Media Design  
-- 🧩 Skilled in **Python, Java, JavaScript, React, AWS, DevOps, and Databases**  
-- 🚀 Hands-on experience in **real-world web development, containerization, and CI/CD pipelines**  
-- 🎯 Committed to mentoring students, building production-ready projects, and improving student career outcomes  
-
----
-
-### ⚡ Tech Stack
+<h3 align="center">
+Computer Science Educator • Software Developer • AI & Robotics Instructor • Cloud & DevOps Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+🇨🇦 Based in Toronto, Ontario, Canada
 </p>
 
 ---
 
-### 📈 GitHub Contribution Snake & Activity
+# 👨‍💻 About Me
+
+I am a passionate Computer Science educator and Software Developer with **10+ years of experience** teaching, mentoring, and building technology solutions.
+
+Currently I teach Computer Science and Media Arts in Ontario while also working as a Cyber Security & Interactive Media Instructor, STEM & Robotics Instructor, Programming Instructor, and Freelance Software Developer.
+
+My passion is helping students and professionals become industry ready through project-based learning, AI integration, robotics, software engineering, and real-world development.
+
+I strongly believe that:
+
+> "The best way to learn programming is by building something meaningful."
+
+---
+
+# 🚀 Current Roles
+
+🎓 Computer Science & Media Arts Teacher
+Amberson High School
+
+🛡 Cyber Security & Interactive Media Instructor
+CDI College
+
+💻 Programming Instructor
+RG Educenters
+
+🤖 STEM & Robotics Instructor
+Student Scholars
+
+🎮 Computer Science & Game Development Instructor
+TYT Invitational Education Centre
+
+🌐 Freelance Software Developer
+
+---
+
+# 💡 Areas I Teach
+
+✔ Python Programming
+
+✔ Java Programming
+
+✔ Web Development
+
+✔ Cyber Security
+
+✔ Artificial Intelligence
+
+✔ Robotics
+
+✔ Arduino
+
+✔ LEGO Robotics
+
+✔ Raspberry Pi
+
+✔ Scratch Programming
+
+✔ App Development
+
+✔ Object Oriented Programming
+
+✔ Data Structures & Algorithms
+
+✔ Media Arts
+
+✔ Video Editing
+
+✔ Graphic Design
+
+✔ 3D Printing
+
+✔ STEM Education
+
+✔ Game Development
+
+---
+
+# 🛠 Tech Stack
+
+## Programming
+
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python)
+
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=openjdk)
+
+![C++](https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=cplusplus)
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript)
+
+![PHP](https://img.shields.io/badge/-PHP-purple?style=for-the-badge&logo=php)
+
+---
+
+## Frontend
+
+HTML5
+
+CSS3
+
+Bootstrap
+
+React
+
+WordPress
+
+---
+
+## Backend
+
+Node.js
+
+PHP
+
+MySQL
+
+MongoDB
+
+SQL Server
+
+---
+
+## Cloud & DevOps
+
+AWS
+
+Docker
+
+Git
+
+GitHub
+
+CI/CD
+
+Linux
+
+---
+
+## Educational Technologies
+
+Google Classroom
+
+Moodle
+
+Microsoft Teams
+
+Canvas LMS
+
+Visual Studio Code
+
+Eclipse
+
+Adobe Creative Cloud
+
+Canva
+
+OBS Studio
+
+CapCut
+
+Filmora
+
+---
+
+# 📚 Current Projects
+
+🔹 Ontario Computer Science Curriculum
+
+🔹 Ontario Media Arts Curriculum
+
+🔹 AI Resume Tailoring Platform
+
+🔹 QR Generator Software
+
+🔹 Robotics Curriculum
+
+🔹 LEGO WeDo Curriculum
+
+🔹 Python Teaching Projects
+
+🔹 GitHub Portfolio Website
+
+🔹 AI Teaching Resources
+
+🔹 Educational Books
+
+🔹 Hackathon Preparation Material
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <!-- Moving Contribution Snake -->
-  <img src="https://github.com/suragsp/github-contribution-snake/raw/main/snake.svg" alt="GitHub Contribution Snake" width="600" />
 
-  <!-- GitHub Activity Graph -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=suragsp&theme=react-dark&hide_border=true" alt="GitHub activity graph" width="600" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=suragsp&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suragsp&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-### 📊 Skills (Live Animated)
+# 🌟 Professional Highlights
 
-<p align="center">
-<img src="https://img.shields.io/badge/Python-90%25-green?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-85%25-orange?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-80%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+🏆 10+ Years Teaching Experience
 
-<img src="https://img.shields.io/badge/React-75%25-blue?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-70%25-green?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-65%25-red?style=for-the-badge&logo=flask&logoColor=white" />
+🏆 Best ICT Teacher Award (3 Times)
 
-<img src="https://img.shields.io/badge/AWS-70%25-orange?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-75%25-blue?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-60%25-blue?style=for-the-badge&logo=kubernetes&logoColor=white" />
+🏆 Chief Guest Faculty at CDI College Convocation
 
-<img src="https://img.shields.io/badge/MySQL-80%25-blue?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-75%25-blue?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-70%25-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
+🏆 Ontario Certified Secondary School Teacher
 
----
+🏆 Developed Multiple Computer Science Curriculums
 
-### 💼 Detailed Experience
+🏆 Designed Robotics Textbooks
 
-#### CDI College – Cybersecurity & Interactive Media Instructor
-📍 Scarborough, ON | 2024 – Present  
-1. Teach Python, Java, JavaScript, HTML/CSS, SQL, MongoDB  
-2. Mentor 100+ students per semester on **real-world projects**  
-3. Conduct hackathons and workshops for hands-on learning  
-4. Guide students in **portfolio building, Git/GitHub, and career readiness**  
-5. Implement cloud and DevOps concepts using AWS & Docker  
-6. Supervise capstone projects and prepare students for tech internships  
-7. Conduct performance assessments and provide one-on-one mentorship  
-8. Develop instructional materials, assignments, and lab exercises  
-9. Collaborate with department to improve curriculum and student engagement  
-10. Provide career guidance, soft skills training, and technical workshops  
+🏆 Created AI Learning Resources
 
-#### RG Educenters – Programming Instructor
-📍 Scarborough, ON | 2023 – Present  
-1. Provide 1-on-1 and group programming instruction  
-2. Develop preparatory courses for university-level computer science  
-3. Mentor 60+ students in advanced programming concepts  
-4. Organize Hackathon readiness programs to boost innovation  
-5. Create instructional video content and presentations  
-6. Improve algorithmic thinking and problem-solving skills  
-7. Track student progress and provide feedback  
-8. Foster critical thinking and creativity through hands-on exercises  
-9. Support coding competitions and STEM initiatives  
-10. Maintain learning management system content  
+🏆 Guided Hundreds of Students into Technology Careers
 
-#### Student Scholars – STEM & Robotics Instructor
-📍 Markham, ON | 2023 – Present  
-1. Design integrated Robotics, 3D Printing, and Programming curriculum  
-2. Lead hands-on labs and coding camps for K–12 students  
-3. Increase STEM participation by over 60%  
-4. Assign weekly coding exercises, projects, and case studies  
-5. Achieve 95% assignment completion rates  
-6. Facilitate dynamic problem-solving and technical proficiency  
-7. Guide students in game and app development using Python & Java  
-8. Mentor students in project-based learning  
-9. Organize robotics competitions and STEM events  
-10. Enhance creativity and collaboration through team projects  
-
-#### Freelance – Software Development Consultant
-📍 Remote | 2018 – Present  
-1. Develop websites and applications for clients  
-2. Implement full-stack solutions using React, Flask, WordPress  
-3. Deploy projects using AWS, Docker, CI/CD pipelines  
-4. Provide IT consultation for workflow automation and cloud integration  
-5. Create training materials and tutorials for clients  
-6. Maintain websites and troubleshoot issues  
-7. Optimize databases and backend systems  
-8. Mentor junior developers and students  
-9. Provide UI/UX recommendations for projects  
-10. Ensure scalability and security for production systems  
+🏆 Built Educational Websites & Software
 
 ---
 
-### 🌐 Portfolio Projects (Interactive GIF Cards)
+# 🤝 Let's Connect
 
-<p align="center">
+📧 Email
 
-<a href="https://www.studentscholarscentre.com" target="_blank" style="text-decoration:none;">
-  <div style="display:inline-block;position:relative;margin:10px;">
-    <img src="https://github.com/suragsp/portfolio-gifs/raw/main/studentscholars.gif" alt="Student Scholars Centre" width="250" style="border-radius:10px;transition:0.3s;box-shadow:0 4px 8px rgba(0,0,0,0.2);" onmouseover="this.style.transform='scale(1.1)';this.style.boxShadow='0 8px 16px rgba(0,0,0,0.4)';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';"/>
-    <div style="position:absolute;bottom:0;width:100%;background:rgba(0,0,0,0.6);color:white;text-align:center;font-weight:bold;padding:5px;border-radius:0 0 10px 10px;">
-      🧑‍🎓 Student Scholars Centre
-    </div>
-  </div>
-</a>
+suragsp@gmail.com
 
-<a href="https://www.rgeducation.com" target="_blank" style="text-decoration:none;">
-  <div style="display:inline-block;position:relative;margin:10px;">
-    <img src="https://github.com/suragsp/portfolio-gifs/raw/main/rgeducation.gif" alt="RG Education" width="250" style="border-radius:10px;transition:0.3s;box-shadow:0 4px 8px rgba(0,0,0,0.2);" onmouseover="this.style.transform='scale(1.1)';this.style.boxShadow='0 8px 16px rgba(0,0,0,0.4)';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';"/>
-    <div style="position:absolute;bottom:0;width:100%;background:rgba(0,0,0,0.6);color:white;text-align:center;font-weight:bold;padding:5px;border-radius:0 0 10px 10px;">
-      🧑‍💼 RG Education
-    </div>
-  </div>
-</a>
+🌐 LinkedIn
 
-<a href="https://moghulfashprint.com" target="_blank" style="text-decoration:none;">
-  <div style="display:inline-block;position:relative;margin:10px;">
-    <img src="https://github.com/suragsp/portfolio-gifs/raw/main/moghulfashprint.gif" alt="Moghul Fash Print" width="250" style="border-radius:10px;transition:0.3s;box-shadow:0 4px 8px rgba(0,0,0,0.2);" onmouseover="this.style.transform='scale(1.1)';this.style.boxShadow='0 8px 16px rgba(0,0,0,0.4)';" onmouseout="this.style.transform='scale(1)';this.style.boxShadow='0 4px 8px rgba(0,0,0,0.2)';"/>
-    <div style="position:absolute;bottom:0;width:100%;background:rgba(0,0,0,0.6);color:white;text-align:center;font-weight:bold;padding:5px;border-radius:0 0 10px 10px;">
-      🛍️ Moghul Fash Print
-    </div>
-  </div>
-</a>
+https://linkedin.com/in/suragsp
 
-</p>
-<p align="center"><i>Hover over the GIFs or click to view the live site</i></p>
+💻 GitHub
+
+https://github.com/suragsp
 
 ---
 
-### 📫 Connect with Me
+# 📊 Visitor Count
 
-- [LinkedIn](https://www.linkedin.com/in/suragsp/)  
-- [GitHub](https://github.com/suragsp)
+![](https://komarev.com/ghpvc/?username=suragsp&color=blue)
+
+---
+
+## 💬 Favorite Quote
+
+> "Technology is best learned by creating, experimenting, and sharing."
